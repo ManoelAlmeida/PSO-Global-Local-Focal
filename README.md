@@ -15,3 +15,5 @@ Problem:<br />
 	<br />
 Problems topic is related to objective functions. It's been already developed Sphere, Rotated Rastrigin and Rosenbrock objective functions. <br /><br />
 It's worth to metion that when you choose to use Focal topology, you have to set FOCAL_BEST_PARTICLE equals 1, because in Focal topology one of the particle from the swarm is used to be the responsible to share the better position found in search process.
+<br /><br />
+Into simulations fold contains some examples of CSV files resulted from simulations using all the objective functions.
