@@ -1,5 +1,5 @@
 # PSO-Global-Local-Focal
-It's a simple implementation of PSO with Global, Local and Focal topology.
+It's a simple implementation of PSO with Global, Local and Focal topologies.
 
 The topologies setup are as follow:
 
